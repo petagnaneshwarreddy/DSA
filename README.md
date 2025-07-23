@@ -65,7 +65,7 @@ If you find errors or want to suggest improvements:
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/gnaneshwar-reddy-peta-54a58b269)  
+- [LinkedIn](https://www.linkedin.com/in/gnaneshwar-reddy-peta-54a58b269/)  
 - [GitHub](https://github.com/petagnaneshwarreddy)  
 - [Personal Website/Portfolio](https://peta-portfolio-beta.vercel.app/)
 
