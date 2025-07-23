@@ -1,0 +1,31 @@
+//Linked List
+class Node
+{
+  int data;
+  Node next;
+  //Constructor
+  Node(int data)
+  {
+    this.data=data;
+    this.next=null;
+  }
+}
+public class Main
+{
+  public static void main(String[]args)
+  {
+    Node n=new Node(10);
+    n.next=new Node(20);
+    n.next=new Node(30);
+    n.next=new Node(40);
+    n.next=new Node(50);
+    n.next=new Node(60);
+    Node temp=n;
+    while(temp!=null)
+    {
+      System.out.println(temp.data+" ->");
+      temp=temp.next;
+    }
+    System.out.println("Null");
+  }
+}
